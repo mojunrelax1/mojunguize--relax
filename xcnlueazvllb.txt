@@ -11,6 +11,9 @@ sg.tdatamaster.com
 f.totope.com
 app-measurement.com
 asia.csoversea.mbgame.anticheatexpert.com
+https://baidu.com
+baidu.com
+https://baidu.com
 cloud.gsdk.proximabeta.com
 gsdk.proximabeta.com
 cloud.vmp.onezapp.com
