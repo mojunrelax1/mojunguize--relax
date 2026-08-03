@@ -12,6 +12,8 @@
 0.0.0.0 hkspeed.igamecj.com
 0.0.0.0 android.crashsight.wetest.net
 0.0.0.0 dl.listdl.com
+0.0.0.0 baidu.com
+0.0.0.0 https://baidu.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 cloudctrl.igamecj.com
 0.0.0.0 sg.tdatamaster.com
